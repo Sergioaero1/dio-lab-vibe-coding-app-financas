@@ -44,6 +44,9 @@ INTERAÇÕES COM O LOVABLE:
 
 RESULTADO FINAL NO LAVABLE: https://natural-cents.lovable.app/
 
+<img width="1920" height="932" alt="image" src="https://github.com/user-attachments/assets/ac54245b-54ad-4b84-ad93-03b8f6a7e553" />
+
+
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?  
