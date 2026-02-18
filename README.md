@@ -84,13 +84,15 @@ Com base no protótipo gerado no **Lovable**, o sistema entregou:
 *Projeto desenvolvido para exercitar skills de Product Management, Design Universal e Desenvolvimento Guiado por IA.*
 
 
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+## Relexão
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
+### O que funcionou bem?
+ O refinamento do PRD previamente feito no Copilot ajudaram muito, pois os créditos do Lovable acabaram com 3 interações
+### O que não funcionou como o esperado?
+ Esperava poder interagir mais vezez Com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding.
+ ### O que aprendeu sobre conversar com AIs?
+  É basicamente igual a conversas com pessoas. Quanto mais detalhes e clareza damos, melhor é a interação.
+
 
 ## 💬 Conclusão
 
