@@ -46,8 +46,44 @@ RESULTADO FINAL NO LAVABLE: https://natural-cents.lovable.app/
 
 <img width="1920" height="932" alt="image" src="https://github.com/user-attachments/assets/ac54245b-54ad-4b84-ad93-03b8f6a7e553" />
 
+# AFIN - Gestão Financeira via Linguagem Natural 🚀
 
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+O **AFIN (Aero-Finanças)** é um aplicativo de controle financeiro desenvolvido sob o conceito de **Vibe Coding**. O foco principal é a simplicidade extrema e o **Design Universal**, substituindo planilhas complexas por uma interface de chat intuitiva baseada em IA.
+
+## 🧠 O Conceito: Vibe Coding
+Este projeto foi construído utilizando a metodologia de **Vibe Coding**, onde o desenvolvedor atua como um diretor criativo, comunicando a "vibe" (intenção, estética e fluxo) para agentes de IA (como Lovable e Copilot) para gerar código funcional de alta fidelidade em tempo recorde.
+
+## 📋 Resumo do PRD (Product Requirements Document)
+
+### 1. Objetivo
+Democratizar a gestão financeira através de uma interface de chat (LLM-driven), eliminando a barreira da entrada manual de dados.
+
+### 2. Funcionalidades-Chave (MVP)
+*   **Registro via Chat:** Entrada de gastos em linguagem natural (ex: "Gastei 50 na pizza").
+*   **Categorização Automática:** IA identifica valor, descrição e categoria (Alimentação, Transporte, etc.).
+*   **Dashboard Visual:** Resumo de saldo, receitas e despesas com gráficos de alto contraste.
+*   **Design Universal:** Interface acessível com áreas de toque de 44px+, fontes legíveis e paleta Teal/Amber.
+
+## 🖼️ Resultado Final (Análise da Implementação)
+
+Com base no protótipo gerado no **Lovable**, o sistema entregou:
+
+*   **Painel de Controle:** Visualização clara do saldo líquido (R$ 6.099,60) e balanço entre receitas e despesas.
+*   **Gráfico de Categorias:** Distribuição visual dos gastos (Alimentação, Moradia, Saúde, etc.) através de um gráfico de rosca interativo.
+*   **UX Mobile-First:** Navegação simplificada por barra inferior com ícones para Chat, Painel, Metas e Histórico.
+*   **Acessibilidade:** Cumprimento dos requisitos de alto contraste e baixo esforço cognitivo.
+
+## 🛠️ Tecnologias Utilizadas
+*   **Frontend:** HTML5, CSS3 (Design System Acessível), JavaScript.
+*   **Backend:** Node.js com Express.
+*   **Banco de Dados:** MySQL Local para persistência de transações e perfis de usuários.
+*   **Inteligência:** Lógica de processamento de linguagem natural (Regex/NLP).
+*   **Ferramentas de IA:** Lovable (UI/UX) e GitHub Copilot (Lógica de Servidor).
+
+---
+*Projeto desenvolvido para exercitar skills de Product Management, Design Universal e Desenvolvimento Guiado por IA.*
+
+
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?  
   - O que não funcionou como o esperado?  
